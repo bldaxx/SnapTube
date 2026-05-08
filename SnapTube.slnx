@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SnapTube.vcxproj" Id="b35ae219-db13-4f10-944c-3faeff088929" />
+</Solution>
